@@ -10,15 +10,15 @@ Golang安全资源合集
 - [book](https://github.com/qyuhen/book) - 雨痕Go 学习笔记
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go/) - Golang黑客编程
 
-## 代码安全
-
-- [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go语言安全编码实践指南
-- [gosec](https://github.com/securego/gosec) - Go语言源码安全分析工具
-
 ## 库
 
 - [gopacket](https://github.com/google/gopacket) - Go语言用于处理网络数据包的库
 - [xorm](https://github.com/go-xorm/xorm) - Go语言实现的ORM库，支持多种数据库
+
+## 代码安全
+
+- [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go语言安全编码实践指南
+- [gosec](https://github.com/securego/gosec) - Go语言源码安全分析工具
 
 ## 安全工具
 
