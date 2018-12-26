@@ -31,6 +31,7 @@ Golang安全资源合集
 - [Blind-SQL-Injector](https://github.com/Releasel0ck/Blind-SQL-Injector) - Go语言编写的手工盲注辅助工具
 - [lonely-shell](https://github.com/vesche/lonely-shell) - Go语言实现的反弹Shell后门
 - [hershell](https://github.com/sysdream/hershell) -  Go语言反弹Shell后门
+- [NATBypass](https://github.com/cw1997/NATBypass) -  LCX/Htran在Golang下的实现
 - [brook](https://github.com/txthinking/brook) - Go语言编写的一款跨平台代理应用
 - [go-deliver](https://github.com/0x09AL/go-deliver) - Go语言编写的Payload交互工具
 - [go-shellcode](https://github.com/brimstone/go-shellcode) - Go语言编写的ShellCode执行工具
