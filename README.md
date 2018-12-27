@@ -26,7 +26,8 @@ Golang安全资源合集
 - [blacksheepwall](https://github.com/tomsteele/blacksheepwall) - Go语言编写的域名信息搜集工具
 - [amass](https://github.com/caffix/amass) - Go语言编写的子域名收集工具
 - [vuls](https://github.com/future-architect/vuls) - Go语言编写的Linux/FreeBSD漏洞扫描器
-- [gryffin](https://github.com/yahoo/gryffin) -大规模Web安全扫描平台
+- [gryffin](https://github.com/yahoo/gryffin) - 大规模Web安全扫描平台
+- [Gobuster](https://github.com/OJ/gobuster) - Go语言编写的目录及文件枚举工具
 - [OnionScan](https://github.com/s-rah/onionscan/) - Go语言编写的暗网扫描仪
 - [x-crack](https://github.com/netxfly/x-crack) - Go语言编写的弱口令扫描器
 - [Blind-SQL-Injector](https://github.com/Releasel0ck/Blind-SQL-Injector) - Go语言编写的手工盲注辅助工具
@@ -38,8 +39,10 @@ Golang安全资源合集
 - [go-deliver](https://github.com/0x09AL/go-deliver) - Go语言编写的Payload交互工具
 - [go-shellcode](https://github.com/brimstone/go-shellcode) - Go语言编写的ShellCode执行工具
 - [go-mimikatz](https://github.com/vyrus001/go-mimikatz) - Go语言版本的Mimikatz
+- [NtlmSocks](https://github.com/360-A-Team/NtlmSocks) - 一个工作在网络层的跨平台哈希传递工具
 - [CHAOS](https://github.com/tiagorlampert/CHAOS) - Go语言编写的Windows远控工具
 - [judas](https://github.com/JonCooperWorks/judas) - Go语言编写的反向钓鱼工具
+- [Gophish](https://github.com/gophish/gophish) - Go语言编写的开源钓鱼框架
 - [goddi](https://github.com/NetSPI/goddi) - Go语言编写的活动目录信息导出工具
 - [goHackTools](https://github.com/dreddsa5dies/goHackTools) - Go语言编写的黑客工具集
 - [honeybits](https://github.com/0x4D31/honeybits) - 一款Go语言开发的蜜罐
