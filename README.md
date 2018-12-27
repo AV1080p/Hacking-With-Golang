@@ -27,7 +27,7 @@ Golang安全资源合集
 - [amass](https://github.com/caffix/amass) - Go语言编写的子域名收集工具
 - [vuls](https://github.com/future-architect/vuls) - Go语言编写的Linux/FreeBSD漏洞扫描器
 - [gryffin](https://github.com/yahoo/gryffin) - 大规模Web安全扫描平台
-- [Gobuster](https://github.com/OJ/gobuster) - KaLi下敏感目录扫描工具
+- [Gobuster](https://github.com/OJ/gobuster) - Kai下敏感目录扫描工具
 - [OnionScan](https://github.com/s-rah/onionscan/) - Go语言编写的暗网扫描仪
 - [x-crack](https://github.com/netxfly/x-crack) - Go语言编写的弱口令扫描器
 - [Blind-SQL-Injector](https://github.com/Releasel0ck/Blind-SQL-Injector) - Go语言编写的手工盲注辅助工具
