@@ -23,19 +23,9 @@ Golang安全资源合集
 ## 安全工具
 
 - [certigo](https://github.com/square/certigo) - Go语言编写用于检查/验证证书信息的命令行工具
-- [blacksheepwall](https://github.com/tomsteele/blacksheepwall) - Go语言编写的域名信息搜集工具
-- [amass](https://github.com/caffix/amass) - Go语言编写的子域名收集工具
-- [vuls](https://github.com/future-architect/vuls) - Go语言编写的Linux/FreeBSD漏洞扫描器
-- [gryffin](https://github.com/yahoo/gryffin) - 大规模Web安全扫描平台
-- [Gobuster](https://github.com/OJ/gobuster) - Kai下敏感目录扫描工具
-- [OnionScan](https://github.com/s-rah/onionscan/) - Go语言编写的暗网扫描仪
-- [x-crack](https://github.com/netxfly/x-crack) - Go语言编写的弱口令扫描器
 - [Blind-SQL-Injector](https://github.com/Releasel0ck/Blind-SQL-Injector) - Go语言编写的手工盲注辅助工具
 - [lonely-shell](https://github.com/vesche/lonely-shell) - Go语言实现的反弹Shell后门
 - [hershell](https://github.com/sysdream/hershell) -  Go语言反弹Shell后门
-- [NATBypass](https://github.com/cw1997/NATBypass) -  LCX/Htran在Golang下的实现
-- [ngrok](https://github.com/inconshreveable/ngrok) -  反向代理/内网穿透工具
-- [brook](https://github.com/txthinking/brook) - Go语言编写的一款跨平台代理应用
 - [go-deliver](https://github.com/0x09AL/go-deliver) - Go语言编写的Payload交互工具
 - [go-shellcode](https://github.com/brimstone/go-shellcode) - Go语言编写的ShellCode执行工具
 - [go-mimikatz](https://github.com/vyrus001/go-mimikatz) - Go语言版本的Mimikatz
@@ -49,10 +39,26 @@ Golang安全资源合集
 - [xsec-checker](https://github.com/netxfly/sec_check) - Go语言编写的服务器安全检测辅助工具
 - [janusec](https://github.com/Janusec/janusec) - Golang打造的开源WAF网关
 - [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - Go语言实现的恶意IP和域名库
-- [kraken](https://github.com/botherder/kraken) -  Go语言编写的YARA跨平台扫描器
-- [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
 - [xsec-traffic](https://github.com/netxfly/xsec-traffic) - Go语言编写的轻量级恶意流量分析程序
+- [GoCrack](https://github.com/fireeye/gocrack) - Go语言编写密码爆破平台
+
+## 扫描工具
+
+- [blacksheepwall](https://github.com/tomsteele/blacksheepwall) - Go语言编写的域名信息搜集工具
+- [amass](https://github.com/caffix/amass) - Go语言编写的子域名收集工具
+- [vuls](https://github.com/future-architect/vuls) - Go语言编写的Linux/FreeBSD漏洞扫描器
+- [gryffin](https://github.com/yahoo/gryffin) - 大规模Web安全扫描平台
+- [Gobuster](https://github.com/OJ/gobuster) - Kai下敏感目录扫描工具
+- [OnionScan](https://github.com/s-rah/onionscan/) - Go语言编写的暗网扫描仪
+- [x-crack](https://github.com/netxfly/x-crack) - Go语言编写的弱口令扫描器
+- [kraken](https://github.com/botherder/kraken) -  Go语言编写的YARA跨平台扫描器
+
+## 网络工具
+
+- [GoReplay](https://github.com/buger/goreplay) - Go语言编写HTTP流量记录重放工具
+- [NATBypass](https://github.com/cw1997/NATBypass) -  LCX/Htran在Golang下的实现
+- [ngrok](https://github.com/inconshreveable/ngrok) -  反向代理/内网穿透工具
+- [brook](https://github.com/txthinking/brook) - Go语言编写的一款跨平台代理应用
 - [Hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS流量监控工具
 - [gost](https://github.com/ginuerzh/gost) - Go语言编写多功能网络代理转发工具
-- [GoCrack](https://github.com/fireeye/gocrack) - Go语言编写密码爆破平台
-- [GoReplay](https://github.com/buger/goreplay) - Go语言编写HTTP流量记录重放工具
+- [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
