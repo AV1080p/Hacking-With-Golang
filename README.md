@@ -53,3 +53,6 @@ Golang安全资源合集
 - [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
 - [xsec-traffic](https://github.com/netxfly/xsec-traffic) - Go语言编写的轻量级恶意流量分析程序
 - [Hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS流量监控工具
+- [gost](https://github.com/ginuerzh/gost) - Go语言编写多功能网络代理转发工具
+- [GoCrack](https://github.com/fireeye/gocrack) - Go语言编写密码爆破平台
+- [GoReplay](https://github.com/buger/goreplay) - Go语言编写HTTP流量记录重放工具
