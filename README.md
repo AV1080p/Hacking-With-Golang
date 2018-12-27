@@ -1,12 +1,6 @@
 # Hacking-With-Golang
 
-***
-
-## 项目介绍
-
 Golang安全资源合集
-
-***
 
 ## 编程相关
 
@@ -68,3 +62,10 @@ Golang安全资源合集
 - [Hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS流量监控工具
 - [gost](https://github.com/ginuerzh/gost) - Go语言编写多功能网络代理转发工具
 - [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
+
+***
+
+## 致谢
+
+- [Jirairya](http://b404.xyz/)
+- [ttttmr](https://github.com/ttttmr)
