@@ -62,6 +62,7 @@ Golang安全资源合集
 - [Hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS流量监控工具
 - [gost](https://github.com/ginuerzh/gost) - Go语言编写多功能网络代理转发工具
 - [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
+- [netcap](https://github.com/dreadl0ck/netcap) - Go语言编写的网络流量分析框架
 
 ***
 
