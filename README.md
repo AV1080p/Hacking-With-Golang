@@ -32,6 +32,7 @@ Golang安全资源合集
 - [NtlmSocks](https://github.com/360-A-Team/NtlmSocks) - 一个工作在网络层的跨平台哈希传递工具
 - [CHAOS](https://github.com/tiagorlampert/CHAOS) - Go语言编写的Windows远控工具
 - [judas](https://github.com/JonCooperWorks/judas) - Go语言编写的反向钓鱼工具
+- [Modlishka](https://github.com/drk1wi/Modlishka) - Go语言编写的反向代理钓鱼工具
 - [Gophish](https://github.com/gophish/gophish) - Go语言编写的开源钓鱼框架
 - [goddi](https://github.com/NetSPI/goddi) - Go语言编写的活动目录信息导出工具
 - [goHackTools](https://github.com/dreddsa5dies/goHackTools) - Go语言编写的黑客工具集
