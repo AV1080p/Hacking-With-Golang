@@ -42,6 +42,7 @@ Golang安全资源合集
 - [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - Go语言实现的恶意IP和域名库
 - [xsec-traffic](https://github.com/netxfly/xsec-traffic) - Go语言编写的轻量级恶意流量分析程序
 - [GoCrack](https://github.com/fireeye/gocrack) - Go语言编写密码爆破平台
+- [gowitness](https://github.com/sensepost/gowitness) - Golang开发使用Chrome Headless实现的网页截图工具
 
 ## 扫描工具
 
@@ -64,6 +65,7 @@ Golang安全资源合集
 - [gost](https://github.com/ginuerzh/gost) - Go语言编写多功能网络代理转发工具
 - [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
 - [netcap](https://github.com/dreadl0ck/netcap) - Go语言编写的网络流量分析框架
+- [go-out](https://github.com/sensepost/go-out) - 用于在渗透测试时测试出站端口的工具
 
 ***
 
