@@ -26,6 +26,7 @@ Golang安全资源合集
 - [Blind-SQL-Injector](https://github.com/Releasel0ck/Blind-SQL-Injector) - Go语言编写的手工盲注辅助工具
 - [lonely-shell](https://github.com/vesche/lonely-shell) - Go语言实现的反弹Shell后门
 - [hershell](https://github.com/sysdream/hershell) -  Go语言反弹Shell后门
+- [chashell](https://github.com/sysdream/chashell) -  Go语言编写通过DNS进行通信的反向Shell
 - [go-deliver](https://github.com/0x09AL/go-deliver) - Go语言编写的Payload交互工具
 - [go-shellcode](https://github.com/brimstone/go-shellcode) - Go语言编写的ShellCode执行工具
 - [go-mimikatz](https://github.com/vyrus001/go-mimikatz) - Go语言版本的Mimikatz
