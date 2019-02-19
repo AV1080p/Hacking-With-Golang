@@ -44,6 +44,7 @@ Golang安全资源合集
 - [xsec-traffic](https://github.com/netxfly/xsec-traffic) - Go语言编写的轻量级恶意流量分析程序
 - [GoCrack](https://github.com/fireeye/gocrack) - Go语言编写密码爆破平台
 - [gowitness](https://github.com/sensepost/gowitness) - Golang开发使用Chrome Headless实现的网页截图工具
+- [Kunpeng](https://github.com/opensec-cn/kunpeng) - 一个Golang编写的开源POC检测框架
 
 ## 扫描工具
 
