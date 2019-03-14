@@ -63,6 +63,7 @@ Golang安全资源合集
 - [NATBypass](https://github.com/cw1997/NATBypass) -  LCX/Htran在Golang下的实现
 - [ngrok](https://github.com/inconshreveable/ngrok) -  反向代理/内网穿透工具
 - [brook](https://github.com/txthinking/brook) - Go语言编写的一款跨平台代理应用
+- [Venom](https://github.com/Dliv3/Venom) - 一款为渗透测试人员设计的使用Go开发的多级代理工具
 - [Hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS流量监控工具
 - [gost](https://github.com/ginuerzh/gost) - Go语言编写多功能网络代理转发工具
 - [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
