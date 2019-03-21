@@ -45,6 +45,7 @@ Golang安全资源合集
 - [GoCrack](https://github.com/fireeye/gocrack) - Go语言编写密码爆破平台
 - [gowitness](https://github.com/sensepost/gowitness) - Golang开发使用Chrome Headless实现的网页截图工具
 - [Kunpeng](https://github.com/opensec-cn/kunpeng) - 一个Golang编写的开源POC检测框架
+- [AssassinGo](https://github.com/AmyangXYZ/AssassinGo) - 基于Go的高并发可拓展式Web渗透框架
 
 ## 扫描工具
 
