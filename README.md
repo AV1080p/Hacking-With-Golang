@@ -70,6 +70,7 @@ Golang安全资源合集
 - [gomitmproxy](https://github.com/sheepbao/gomitmproxy) - Go语言实现的Mitmproxy
 - [netcap](https://github.com/dreadl0ck/netcap) - Go语言编写的网络流量分析框架
 - [go-out](https://github.com/sensepost/go-out) - 用于在渗透测试时测试出站端口的工具
+- [bettercap](https://github.com/bettercap/bettercap) - 一款中间人攻击工具
 
 ***
 
