@@ -20,6 +20,7 @@ Golang安全资源合集
 - [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go语言安全编码实践指南
 - [gosec](https://github.com/securego/gosec) - Go语言源码安全分析工具
 - [gotools](https://github.com/felberj/gotools) - 用于逆向Golang二进制文件的Ghidra插件
+- [gobfuscate](https://github.com/unixpickle/gobfuscate) - 一款针对Go二进制和包的混淆工具
 
 ## 安全工具
 
@@ -48,6 +49,13 @@ Golang安全资源合集
 - [Kunpeng](https://github.com/opensec-cn/kunpeng) - 一个Golang编写的开源POC检测框架
 - [AssassinGo](https://github.com/AmyangXYZ/AssassinGo) - 基于Go的高并发可拓展式Web渗透框架
 - [muraena](https://github.com/muraenateam/muraena) - 反向代理自动化钓鱼工具
+- [ruse](https://github.com/e3prom/ruse) - 适用于Red Team基础架构的反向代理
+- [hershell](https://github.com/lesnuages/hershell) - 跨平台反弹Shell生成工具
+- [BadArchitect](https://github.com/mthbernardes/BadArchitect) - 滥用SketchUp在Windows上实现持久化的PoC
+- [golang_c2](https://github.com/prsecurity/golang_c2) - Go语言编写的C2服务器
+- [XRay](https://github.com/evilsocket/xray) - 从公共网络中收集OSINT情报的工具
+- [GTRS](https://github.com/mthbernardes/GTRS) - 通过Google Translator做为代理发送远程控制命令的C2服务器
+
 
 ## 扫描工具
 
@@ -58,8 +66,13 @@ Golang安全资源合集
 - [Gobuster](https://github.com/OJ/gobuster) - Kai下敏感目录扫描工具
 - [OnionScan](https://github.com/s-rah/onionscan/) - Go语言编写的暗网扫描仪
 - [x-crack](https://github.com/netxfly/x-crack) - Go语言编写的弱口令扫描器
-- [kraken](https://github.com/botherder/kraken) -  Go语言编写的YARA跨平台扫描器
-- [Portscanner](https://github.com/djhohnstein/portscannern) -  Go语言编写的端口扫描工具
+- [kraken](https://github.com/botherder/kraken) - Go语言编写的YARA跨平台扫描器
+- [Portscanner](https://github.com/djhohnstein/portscannern) - Go语言编写的端口扫描工具
+- [ffuf](https://github.com/ffuf/ffuf) -  Go语言编写的Web目录/DNS/参数Fuzz工具
+- [mongoBuster](https://github.com/ffuf/ffuf) - 扫描开放的MongoDB实例
+- [furious](https://github.com/liamg/furious) - Go语言编写的IP/端口扫描工具
+- [goscan](https://github.com/marco-lancini/goscan) - Go语言编写的交互式网络扫描器
+- [ipv666](https://github.com/lavalamp-/ipv666) - Golang实现的IPV6地址扫描
 
 ## 网络工具
 
@@ -74,6 +87,9 @@ Golang安全资源合集
 - [netcap](https://github.com/dreadl0ck/netcap) - Go语言编写的网络流量分析框架
 - [go-out](https://github.com/sensepost/go-out) - 用于在渗透测试时测试出站端口的工具
 - [bettercap](https://github.com/bettercap/bettercap) - 一款中间人攻击工具
+- [mitmengine](https://github.com/cloudflare/mitmengine) - 中间人攻击检测工具
+- [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器
+- [goproxy](https://github.com/snail007/goproxy) - Golang实现的高性能理代理服务器
 
 ***
 
