@@ -46,6 +46,7 @@ Golang安全资源合集
 - [gowitness](https://github.com/sensepost/gowitness) - Golang开发使用Chrome Headless实现的网页截图工具
 - [Kunpeng](https://github.com/opensec-cn/kunpeng) - 一个Golang编写的开源POC检测框架
 - [AssassinGo](https://github.com/AmyangXYZ/AssassinGo) - 基于Go的高并发可拓展式Web渗透框架
+- [muraena](https://github.com/muraenateam/muraena) - 反向代理自动化钓鱼工具
 
 ## 扫描工具
 
@@ -57,6 +58,7 @@ Golang安全资源合集
 - [OnionScan](https://github.com/s-rah/onionscan/) - Go语言编写的暗网扫描仪
 - [x-crack](https://github.com/netxfly/x-crack) - Go语言编写的弱口令扫描器
 - [kraken](https://github.com/botherder/kraken) -  Go语言编写的YARA跨平台扫描器
+- [Portscanner](https://github.com/djhohnstein/portscannern) -  Go语言编写的端口扫描工具
 
 ## 网络工具
 
