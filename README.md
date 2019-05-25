@@ -19,6 +19,7 @@ Golang安全资源合集
 
 - [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go语言安全编码实践指南
 - [gosec](https://github.com/securego/gosec) - Go语言源码安全分析工具
+- [gotools](https://github.com/felberj/gotools) - 用于逆向Golang二进制文件的Ghidra插件
 
 ## 安全工具
 
