@@ -55,6 +55,8 @@ Golang安全资源合集
 - [golang_c2](https://github.com/prsecurity/golang_c2) - Go语言编写的C2服务器
 - [XRay](https://github.com/evilsocket/xray) - 从公共网络中收集OSINT情报的工具
 - [GTRS](https://github.com/mthbernardes/GTRS) - 通过Google Translator做为代理发送远程控制命令的C2服务器
+- [merlin](https://github.com/Ne0nd0g/merlin) - Golang跨平台C2
+- [Modlishka](https://github.com/drk1wi/Modlishka) - 反向代理钓鱼工具，支持2FA
 
 
 ## 扫描工具
@@ -73,6 +75,7 @@ Golang安全资源合集
 - [furious](https://github.com/liamg/furious) - Go语言编写的IP/端口扫描工具
 - [goscan](https://github.com/marco-lancini/goscan) - Go语言编写的交互式网络扫描器
 - [ipv666](https://github.com/lavalamp-/ipv666) - Golang实现的IPV6地址扫描
+- [trivy](https://github.com/aquasecurity/trivy) - 容器安全扫描
 
 ## 网络工具
 
