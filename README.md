@@ -90,6 +90,7 @@ Golang安全资源合集
 - [mitmengine](https://github.com/cloudflare/mitmengine) - 中间人攻击检测工具
 - [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器
 - [goproxy](https://github.com/snail007/goproxy) - Golang实现的高性能理代理服务器
+- [frp](https://github.com/fatedier/frp) - Golang实现的反向代理工具
 
 ***
 
