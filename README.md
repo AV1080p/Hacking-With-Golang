@@ -2,6 +2,8 @@
 
 Golang安全资源合集
 
+![vx](https://raw.githubusercontent.com/re4lity/Webapp_rule.yaml/master/vxqrcode.jpg)
+
 ## 编程相关
 
 - [The Go Programming Language](https://golang.org/doc/) - Go语言官方文档
