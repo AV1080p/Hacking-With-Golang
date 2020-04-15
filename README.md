@@ -59,6 +59,17 @@ Golang安全资源合集
 - [GTRS](https://github.com/mthbernardes/GTRS) - 通过Google Translator做为代理发送远程控制命令的C2服务器
 - [merlin](https://github.com/Ne0nd0g/merlin) - Golang跨平台C2
 - [Modlishka](https://github.com/drk1wi/Modlishka) - 反向代理钓鱼工具，支持2FA
+- [gookies](https://github.com/CCob/gookies) - Dump Chrome Cookie的工具
+- [goreflect](https://github.com/CCob/goreflect) - Golang Reflective DLL加载
+- [gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI客户端
+- [shhgit](https://github.com/eth0izzle/shhgit) - 实时的Github敏感信息监控
+- [pspy](https://github.com/DominicBreuker/pspy) - 在没有root权限的情况下监控linux进程
+- [ruler](https://github.com/sensepost/ruler) - 利用Exchange服务进行渗透的工具
+- [sliver](https://github.com/BishopFox/sliver) - 跨平台C2框架
+- [subjack](https://github.com/haccer/subjack) - Subdomain Takeover扫描识别
+- [raven](https://github.com/0x09AL/raven) - Linkedin信息收集工具
+- [phishery](https://github.com/ryhanson/phishery) - Word文档钓鱼工具
+- [Gorsair](https://github.com/Ullaakut/Gorsair) - Docker API利用
 
 
 ## 扫描工具
@@ -78,6 +89,13 @@ Golang安全资源合集
 - [goscan](https://github.com/marco-lancini/goscan) - Go语言编写的交互式网络扫描器
 - [ipv666](https://github.com/lavalamp-/ipv666) - Golang实现的IPV6地址扫描
 - [trivy](https://github.com/aquasecurity/trivy) - 容器安全扫描
+- [crawlab](https://github.com/crawlab-team/crawlab) - 基于Golang的分布式爬虫管理平台
+- [subfinder](https://github.com/projectdiscovery/subfinder) - 子域名发现
+- [xray](https://github.com/chaitin/xray) - 安全评估工具，支持常见 web 安全问题扫描和自定义 poc
+- [crawlergo](https://github.com/0Kee-Team/crawlergo) - 一个使用chrome headless模式进行URL入口收集的动态爬虫
+- [hakrawler](https://github.com/hakluke/hakrawler) - Go Web爬虫，Web资产发现
+- [goscan](https://github.com/timest/goscan) - 简单高效的IPv4网络扫描，存活设备扫描
+- [naabu](https://github.com/projectdiscovery/naabu) - Go编写的端口扫描工具
 
 ## 网络工具
 
@@ -96,6 +114,12 @@ Golang安全资源合集
 - [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器
 - [goproxy](https://github.com/snail007/goproxy) - Golang实现的高性能理代理服务器
 - [frp](https://github.com/fatedier/frp) - Golang实现的反向代理工具
+- [chisel](https://github.com/jpillora/chisel) - 通过HTTP传输的TCP隧道
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - 支持加密的DNS协议代理
+- [inlets](https://github.com/inlets/inlets) - 防火墙和NAT穿透，映射工具
+- [dog-tunnel](https://github.com/vzex/dog-tunnel) - p2p隧道
+- [skydive](https://github.com/skydive-project/skydive) - 网络拓扑和协议分析工具
+- [mole](https://github.com/davrodpin/mole) - SSH隧道
 
 ***
 
