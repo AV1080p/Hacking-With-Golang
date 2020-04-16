@@ -28,7 +28,7 @@ Golang安全资源合集
 
 - [certigo](https://github.com/square/certigo) - Go语言编写用于检查/验证证书信息的命令行工具
 - [Blind-SQL-Injector](https://github.com/Releasel0ck/Blind-SQL-Injector) - Go语言编写的手工盲注辅助工具
-- [lonely-shell](https://github.com/vesche/lonely-shell) - Go语言实现的反弹Shell后门
+- [lonely-shell](https://github.com/danielan/lonely-shell) - Go语言实现的反弹Shell后门
 - [hershell](https://github.com/sysdream/hershell) -  Go语言反弹Shell后门
 - [chashell](https://github.com/sysdream/chashell) -  Go语言编写通过DNS进行通信的反向Shell
 - [go-deliver](https://github.com/0x09AL/go-deliver) - Go语言编写的Payload交互工具
