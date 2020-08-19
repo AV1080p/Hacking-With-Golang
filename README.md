@@ -82,7 +82,7 @@ Golang安全资源合集
 - [kraken](https://github.com/botherder/kraken) - Go语言编写的YARA跨平台扫描器
 - [Portscanner](https://github.com/djhohnstein/portscannern) - Go语言编写的端口扫描工具
 - [ffuf](https://github.com/ffuf/ffuf) -  Go语言编写的Web目录/DNS/参数Fuzz工具
-- [mongoBuster](https://github.com/ffuf/ffuf) - 扫描开放的MongoDB实例
+- [mongoBuster](https://github.com/yashpl/mongoBuster) - 扫描开放的MongoDB实例
 - [furious](https://github.com/liamg/furious) - Go语言编写的IP/端口扫描工具
 - [goscan](https://github.com/marco-lancini/goscan) - Go语言编写的交互式网络扫描器
 - [ipv666](https://github.com/lavalamp-/ipv666) - Golang实现的IPV6地址扫描
@@ -127,3 +127,4 @@ Golang安全资源合集
 - [ttttmr](https://github.com/ttttmr)
 - [kekeimiku](https://github.com/kekeimiku)
 - [neal1991](https://github.com/neal1991)
+- [b1rdb0y](https://github.com/b1rdb0y)
