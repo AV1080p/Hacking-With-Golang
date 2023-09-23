@@ -73,7 +73,7 @@ Golang安全资源合集
 ## 扫描工具
 
 - [blacksheepwall](https://github.com/tomsteele/blacksheepwall) - Go语言编写的域名信息搜集工具
-- [amass](https://github.com/caffix/amass) - Go语言编写的子域名收集工具
+- [amass](https://github.com/owasp-amass/amass) - Go语言编写的子域名收集工具
 - [vuls](https://github.com/future-architect/vuls) - Go语言编写的Linux/FreeBSD漏洞扫描器
 - [gryffin](https://github.com/yahoo/gryffin) - 大规模Web安全扫描平台
 - [Gobuster](https://github.com/OJ/gobuster) - Kai下敏感目录扫描工具
